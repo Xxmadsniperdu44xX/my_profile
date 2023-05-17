@@ -1,0 +1,36 @@
+
+body {
+	background-color: #DCF5FA;
+	color: #A799B7;
+	font-family: Helvetica;
+	text-align: center;
+
+}
+
+
+img {
+	border-radius :50%
+}
+#pdp{
+	height: 250px;
+	width: 290px;
+}
+div {
+	width :600px;
+	margin:10px auto;
+	background: white;                         
+	padding: 30px;                            
+	border-radius: 4px;                        
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);    
+}
+ul {
+	text-align: left;
+}
+.btn-blue{
+	background-color: #6B72E1;
+	color :white;
+	padding: 15px 20px;
+}
+.btn-blue:hover{
+	background-color: black;
+}
